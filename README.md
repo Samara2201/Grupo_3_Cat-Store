@@ -1,5 +1,5 @@
 Tematica del market place
-PET STORE
+CAT STORE
 La tienda esta dedicada a brindar medicamentos, accesorios y alimentos para las mascotas, esta dirigida a todas aquellas personas que tienen mascotas y desean brindale a ellos los mejores productos de calidad.
 
 -Integreantes del grupo:
