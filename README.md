@@ -4,6 +4,7 @@ La tienda esta dedicada a brindar medicamentos, accesorios y alimentos para las 
 
 -Integreantes del grupo:
 -	Mi nombre es Samara, tengo 27 años y estoy incursionando en el mundo del desarrollo full stack.
+- Yo soy Weimer Diaz, tengo 19 años y estoy incursionando en el mundo del desarrollo full stack.
 
 3. Inspiración
 Acontinuación dejamos las listas de paginas que tomamos como inspiración para nuestro protecto.
