@@ -7,6 +7,7 @@ La tienda esta dedicada a brindar medicamentos, accesorios y alimentos para las 
 - Yo soy Weimer Diaz, tengo 19 años y estoy incursionando en el mundo del desarrollo full stack.
 -  yo soy Edison Leon ,  tengo 30 años, soy mecanico de aviones y estoy incursionando en el mundo del desarrollo full stack.
 - Mi nombre es Andrea, tengo 26 años,  y estoy incursionando en el mundo del desarrollo full stack.
+- Mi nombre es Agustin, tengo 20 años y estoy incursionando en el mundo del desarrollo full stack
 
 3. Inspiración
 Acontinuación dejamos las listas de paginas que tomamos como inspiración para nuestro protecto.
